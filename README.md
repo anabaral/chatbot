@@ -2,7 +2,7 @@
 
 본 저장소는 "처음 배우는 딥러닝 챗봇" 의 예제 코드를 공유하는 저장소입니다.
 
-
+![책 이미지](https://www.hanbit.co.kr/data/books/B7030488815_l.jpg)
 
 ## 구성
 - [예제](#예제)
@@ -11,25 +11,27 @@
 ## 예제
 #### 2장
 - 파이썬 대화형 모드(인터프리터)에서 실습된 예제는 포함되어 있지 않습니다.
-- [파이썬 시작하기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch2)
+- [파이썬 시작하기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch2)
 
 #### 3장
-- [토크나이징](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch3)
+- [토크나이징](https://github.com/anabaral/chatbot/tree/master/book_ex/ch3)
+
+[설치 왜케 힘들어](https://github.com/anabaral/chatbot/tree/master/konlpy-install.md
 
 #### 4장
-- [임베딩](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch4)
+- [임베딩](https://github.com/anabaral/chatbot/tree/master/book_ex/ch4)
 
 #### 5장
-- [텍스트 유사도](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch5)
+- [텍스트 유사도](https://github.com/anabaral/chatbot/tree/master/book_ex/ch5)
 
 #### 6장
-- [챗봇 엔진에 필요한 딥러닝 모델](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch6)
+- [챗봇 엔진에 필요한 딥러닝 모델](https://github.com/anabaral/chatbot/tree/master/book_ex/ch6)
 
 #### 7장
-- [챗봇 학습툴 만들기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch7)
+- [챗봇 학습툴 만들기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch7)
 
 #### 7장
-- [챗봇 학습툴 만들기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch7)
+- [챗봇 학습툴 만들기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch7)
 
 #### 8장
 - 챗봇 엔진 만들기   (8장의 예제는 저장소 루트에 존재합니다.)   8장 예제소스 구조는 다음과 같습니다.
@@ -43,13 +45,13 @@
 </pre>
 
 #### 9장
-- [챗봇 학습툴 만들기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch9)
+- [챗봇 학습툴 만들기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch9)
 
 #### 10장
-- [카카오톡 챗봇 만들기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch10)
+- [카카오톡 챗봇 만들기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch10)
 
 #### 11장
-- [네이버톡톡 챗봇 만들기](https://github.com/keiraydev/chatbot/tree/master/book_ex/ch11)
+- [네이버톡톡 챗봇 만들기](https://github.com/anabaral/chatbot/tree/master/book_ex/ch11)
 
 
 
