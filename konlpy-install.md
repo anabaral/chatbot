@@ -40,7 +40,7 @@ ImportError: DLL load failed while importing _jpype: DLL 초기화 루틴을 실
 ```
 
 검색해 보면 분명히 Visual Studio C++ Redistributable 설치와 관련 있을 것 같은데 아무튼 안됨.  
-어쩌면 3.8에서는 될 지도 모르나.. 지쳐서 포기.
+어쩌면 3.8에서는 될 지도 모르나.. 지쳐서 포기. (위에 간략하게 적었지만 하루종일 이것저것 다 해 봄)
 
 ## Linux(Ubuntu)에서 설치
 
