@@ -189,6 +189,23 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> kkma = Kkma()
 ```
 
+그러나 좀 있다 확인해 본 결과, 내가 python 3.8.6 32-bit 버전을 설치했었다.  
+konlpy는 상관 없지만 뒤에 내가 해야 할 tensorflow는 64-bit 버전을 요구한다...
+
+자, 제 2라운드..
+
+- 기존의 python 3.8.6 32-bit 제거
+- python 3.8.6 64-bit 설치
+- pip install konlpy 설치
+- import 및 인스턴스 선언까지 성공!
+
+거기에 더해서
+```
+>pip install tensorflow
+```
+이것도 성공.  
+휴~
+
 ## Linux(Ubuntu)에서 설치
 
 python이 3.6이 설치된 상태라서 따로 3.8을 설치하였음
