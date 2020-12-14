@@ -46,6 +46,15 @@ ImportError: DLL load failed while importing _jpype: DLL 초기화 루틴을 실
 
 그런데 아래처럼 집 PC에서는 잘 되는 것 같으니 같은 방식으로 다시 시도해 봐야겠다..
 
+...  
+...    
+회사 PC에, 아마도 가장 마지막 쯤에 Microsoft Visual Studio Build Tools를 깔았었고 다만 마지막 설치시도한 Python이 32비트 버전이었음.
+
+Python 32비트 버전만 제거하고 3.8.6 64비트 버전으로 다시 설치하고 아래처럼 시도하니 잘됨.
+
+끗.
+
+
 ### 집 PC에 설치 (성공)
 
 집에서의 환경은 회사 PC에서와 조금 다름. 조금 정리해 보자면
